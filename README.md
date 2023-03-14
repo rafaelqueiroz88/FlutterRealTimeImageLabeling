@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GNU License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 [contributors-shield]: https://img.shields.io/github/contributors/rafaelqueiroz88/FlutterRealTimeImageLabeling.svg?style=for-the-badge
 [contributors-url]: https://github.com/rafaelqueiroz88/FlutterRealTimeImageLabeling/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/rafaelqueiroz88/FlutterRealTimeImageLabeling?style=for-the-badge
@@ -10,14 +17,6 @@
 [license-url]: https://github.com/rafaelqueiroz88/FlutterRealTimeImageLabeling/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rafael-queiroz-0074a4139/
-
-<!-- Project Shields -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GNU License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 
