@@ -34,9 +34,7 @@
       <h2>Getting Started</h2>
       This project count on Google ML Kit Image Labelling.
       Since Google ML Kit is installed. Check <code>pubspec.yml</code> to check these libraries and then run the follow command:<br /><br />
-      ```
-      flutter pub get
-      ```
+      <code width="100%">flutter pub get</code>
     </td>
   </tr>
 </table>
