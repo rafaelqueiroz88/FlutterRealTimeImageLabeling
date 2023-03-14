@@ -90,11 +90,9 @@ class _CameraAppState extends State<CameraApp> {
     final camera = _cameras[0];
     final imageRotation =
         InputImageRotationValue.fromRawValue(camera.sensorOrientation);
-    // if (imageRotation == null) return;
 
     final inputImageFormat =
         InputImageFormatValue.fromRawValue(img!.format.raw);
-    // if (inputImageFormat == null) return null;
 
     final planeData = img!.planes.map(
       (Plane plane) {
